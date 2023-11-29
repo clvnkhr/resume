@@ -1,0 +1,23 @@
+https://jobs.lever.co/voleon/70e4e387-d003-40c1-8dd9-cc070737f866
+
+Add machine learning things
+
+Reformat cv. Need to fit more on one page	
+	Dates should not take a whole column
+
+Fit precisely to the job posting: Add specific experiences and match with bullet points
+	e.g. Top 2% score in QRT 2023 prediction challenge
+	R: you should rephrase this to essentially use very similar wording. Elaborate more
+
+Expand postdoc section. Teaching, research process, collabs (and how many), publications (and how many). Citations???
+
+Remove misc in skills
+
+Expand on blurb. 
+	e.g. R: Mathematician with 4 years post doctoral experience in China focusing on fluid dynamics with multiple publications. Developing a keen interest in applying research and development skills to the financial markets through courses such as Pythn and Statistics for financial analysis.
+
+fluid dynamics -> advanced PDEs, harmonic analysis, ...
+
+https://www.indeed.com/career-advice/resumes-cover-letters/how-to-convert-academic-cv-for-industry-positions
+
+add SEO words

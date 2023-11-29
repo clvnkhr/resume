@@ -1,0 +1,167 @@
+
+Jo: so i think calvin hits all of the bullet points except the first one so we probably need to adjust CV to bring that out a bit more
+ Ja: https://www.linkedin.com/in/wmusial?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+ Ja: Lead researcher in London
+ Ja: Just FYI
+C: mit grad
+C: oh, he’s based in the cali part right?
+ Ja: He was high up in Cali
+ Ja: But has moved over to London in last few months
+C: ohh ok cool
+
+Jo: @447801268228 maybe you can send through your current CV and we can suggest some minor edits? maybe add on the qrt challenge before you send it
+C: ok 😂
+
+Jo: also add on any other machine learning related stuff you might have done/seen/touched :D
+C: hmmmmm i dont think i did anything formal
+ Ja: Yeah another friend we have was asked a lot of stuff on ML by Voitek
+ Ja: So as much ML stuff as you have this is good to present in CV
+Jo: yea we will need to revise elements of stats learning and probs a bit more
+ Ja: As I know Voitek has a keen interest
+Jo: when you say ML @447534330436 , it this like stuff in elements of stats learning or is it neural nets
+Jo: or bunch of everything?
+Jo: Maybe we don't overegg any machine learning though in the CV, just stick with formal stuff
+36:01]C: cv-llt.pdf • ‎1 page ‎document omitted
+C: i’ll have a think on what else i can add for ML
+ Ja: Looks very impressive
+Jo: I like the top 2% in qrt :D
+C: better than 13th best score right 😛
+ Ja: Not bad huh
+Jo: maybe change score to submissions
+Jo: score sounds like it might be in terms of the metric
+C: hmmmmmm yes
+ Ja: Final comment is to elaborate a little more on some points
+ Ja: Like the OEIS is really cool ( to me at least lol)
+ Ja: But how did you contribute
+ Ja: ?
+C: lol i wrote up something that someone guessed on math.se. the OEIS is a link to the entry btw
+ Ja: Ah okay that’s cool
+ Ja: Maybe highlight in blue and underline if it’s link
+ Ja: Cause I’m not sure many people will realise
+Jo: So what I am thinking @447801268228 is to add a couple bullet points to each of your bullet point that highlight at least one of the bullet points from here
+Jo: Too many bullet points in that sentence but hopefully it makes sense
+C: yeah it does
+
+Jo: I will add on Rosie to this chat
+Jo: She is a super person when it comes to CV and tailoring it to job
+C: haha excellent
+Jo: ‎Joy Tolia changed the group description
+R: ‎Joy Tolia added ‪+44 7591 387206‬
+C: aloha @447591387206
+R: hey :)
+Jo: ‎Joy Tolia changed the group name to “James+Calvin+Josie”
+
+!!!!!!!!!!
+
+R: So I would choose to format your cv a bit differently so that you can fit more on one page
+C: sure
+R: the way you organise on the page should be efficient in terms of space but clar
+R: for example the choice of dates on the left hand side uses up a column with empty space
+C: i assure you when i started, that was a feature not a bug 😛
+R: Taking the first bullet point from the description of the job requirements
+R: Background in modern statistical methods and machine learning with a track record as an applied researcher
+R: got down and choose one of your experiences which allows you to demonstrate it.
+R: for example -> Top 2% score in QRT 2023 prediction challenge
+R: you should rephrase this to essentially use very similar wording
+R: to the job description
+R: and elaborate a bit more
+C: ok
+R: Evidence of strong mathematical abilities (e.g., publication record, graduate coursework, or competition placement)
+R: second bullet point on the requirements
+R: you expand out your postdoctorate researcher section and describe teaching responsibilities/research process/collaboration etc
+R: and list publications
+C: this will take a whole page
+C: oh i guess not a whole page. but a lot of space
+R: then list what you feel are your most impressive publications
+C: ok
+R: (top 3) and then count how many
+R: and put that
+R: or if you have a linkedin page you can list them out fully there
+R: and put a link to that on your cv
+C: yeah its linked at the top on orcid, math research doesnt tend to use linkedin. but can pull out the best few
+R: Use numbers to quantify your achievements. When highlighting your career achievements, the most effective way of doing so is usually by including objective metrics.
+R: if you have any stats like citations on your papers etc that are good I would add those
+R: and essentially add these as bullet points underneath your post doc section
+C: hm they aren’t well cited tho haha. but good points. will think
+R: did you do teaching while you did your post docs?
+R: then I would put the classes you taught
+C: yeah, ok
+R: and again if you did multiple choose what you are proudest of
+R: and list how many if numerous
+C: kk
+R: so I taught 5 classes including my favourtie one :)
+R: Ability to solve large-scale computing problems
+R: is mentioned, Joy said that you had some experience in your post doc of this
+R: so again, bullet point under the relevant post do
+R: and explain ... I did large scale computing in this setting
+Jo: (to clarify you have done some work in the compsci dept so i would just adjust that to match this)
+R: Eagerness to work in collaborative and diverse teams
+R: This point -> just choose one experience you put on your cv
+C: err no, unfortunately phd was pure maths in a “computational math” dept lol
+R: and put "I worked in a team"
+Jo: we can figure something out for large scale computing
+C: not phd lmao postdoc. same diff
+R: I would put skills section at the bottom
+R: I would only include Languages and coding not the Misc section
+R: put latex typesetting and publishing into the coding section
+C: ok
+R: Academic research/teaching/training and consultaiton should be demonstrated in your bullet points next to the relevant experience points
+R: I think that your relevant experience courses take up too much space and is a repetitive of your coding section under skills
+C: makes sense
+R: so I would just summarize those course in a list under the Skills section without elaborating
+R: To make the most of your cv I might elaborate on your "summary section" at the top
+C: hm ok
+R: Essentially you want to use it to signpost people through your cv
+R: eg. you want to evidence anything you say with an example on your cv
+C: sure yeah ok.
+R: Mathematician with 4 years post doctoral experience in China focusing on fluid dynamics with multiple publications. Developing a keen interest in applying research and development skills to the financial markets through courses such as Pythn and Statistics for financial analysis.
+R: (its just a rough example) to give you an indication
+R: you would replace multiple with the actual number
+R: and maybe mention how many people you have collaborated with
+C: sounds sick lol
+C: haha ok
+R: thats probably a good stat to include
+R: shows collaboration
+R: also I might dumb down the topic of fluid dynamics
+R: into advanced pdes, stochastic analysis etc
+R: so describe it as fluid dynamics but then in bullet points highlight some of the key techniques that you need
+C: hmmmm ok
+R: its all about having the buzz words
+R: pdes and stochastic analysis people like
+R: brownian motion
+R: probability theory
+R: probabilistic graph theory
+C: ok. if i add too much about prob and they ask something to test they gonna know its been years since i did anything related in uni lol
+R: if you taught statistics then definitely highlight that
+C: good idea but no
+R: Yes I know what you mean but in the interview its unlikely they will ask in detail most of the questions have basic grounding
+C: ok 😛 well im trying to relearn a lot of it atm so it might not be so bad
+R: anything you put, just feel like you can say two sentences on it and you are good. When it comes to actual questions they wont ask deep unless you get someone mean who did that at university or something
+C: looool haha ok
+Jo: i thought you wrote some lecture notes or something on stats/probability?
+C: use it or lose it man
+R: definitely
+C: i chose to regret not doing more stats/prob 😛
+R: I have the same fear when going into interviews
+R: you got to just revise like an exam and hope you get lucky
+R: to a certain extent
+C: kk
+C: you’re on fire, idk where u gettin all these ideas from
+C: gonna take a while to implement
+R: yep no worries
+C: tyvm 👍
+R: if you have a go I can take another look
+C: ok
+R: doesnt need to be perfect when you resend as its probably going to be iterative
+ James+Calvin+Josie: ‎You're now an admin
+C: haha. yup ok
+ Ja: Just read above
+ Ja: Agree with Rosie
+ Ja: Your research / PhD, QRT and coding are going to sell you
+ Ja: Expand on them
+ Ja: Break down as Rosie said
+ Ja: Make relevant and sell yourself hard
+ Ja: Would even cut PwC internship
+C: thanks man
+ Ja: 8 years is too long ago and frees more space to highlight the big achievements
+C: haha it really was a while ago

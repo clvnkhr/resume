@@ -10,8 +10,11 @@
 
 % Uncomment to enable Chinese; needs XeLaTeX
 % \usepackage{ctex}
-
+\newcommand{\myvert}{\vspace{-1.1em}}
+\newcommand{\myhori}{\hspace{-1.1em}}
 \usepackage{settings}
+\usepackage{mathtools}
+\newcommand{\mydaterange}[2]{\(\substack{\!\!\! \text{#1}\\ -\text{#2}}\)\!\!\!\!\!\!\!\!}
 
 % Change the fonts if you want
 \ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
@@ -38,7 +41,7 @@
 % \myname{d'Andrimont}{Raphaël}
 
 % Change the page margins if you want
-% \geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
+\geometry{left=1cm,right=1cm,top=1.5cm,bottom=1.5cm}
 
 % Change the colours if you want
 % \definecolor{SwishLineColour}{HTML}{00FFFF}
@@ -63,14 +66,15 @@
     % \makefield{\faMastodon}{Mastodon Handle: \href{https://mathstodon.xyz/@clvnhkr}{\texttt{@clvnhkr@mathstodon.xyz}}}
         \phantom{\texttt{aaaa}}
     \makefield{\faGlobe}{\href{https://clvnkhr.github.io}{\texttt{clvnkhr.github.io}}}
-    
+    \hfill
+    \makefield{\faPhone}{+44\,(0)\,7801\,268\,228}
+
     \makefield{\faGithub}{\href{https://github.com/clvnkhr/}{\texttt{https://github.com/clvnkhr/}}}
     \phantom{\texttt{}}
     \makefield{\faOrcid}{Publications: \href{https://orcid.org/0000-0001-7557-0786}{\texttt{orcid.org/0000-0001-7557-0786}}}
         
-    \makefield{\faPhone}{+44\,(0)\,7801\,268\,228}
+    % \makefield{\faPhone}{+44\,(0)\,7801\,268\,228}
 
-%  \makefield{\faGlobe}{\url{http://example.example.org/}}
 
 %  \makefield{\faLinkedin}
 %  {\url{http://www.linkedin.com/in/example/}}
@@ -87,19 +91,32 @@
 \begin{document}
 \emergencystretch 3em
 \makeheaders[c]
-Mathematician and aspiring financial analyst with a passion for software and technology. Eager to learn from experienced professionals and contribute to the success of the organization.
+Mathematician and aspiring quant researcher with a passion for software and technology. Strong analytical skills from four years of post-doctorates in large research groups, with six co-authors and publications in respected journals cited by leading experts. Constantly driven to learn and improve via professional courses in probability, statistics, computer science and finance.  Developing a keen interest in applying research and development skills to the financial markets. 
+% Mathematician and aspiring quant researcher with 4 years post doctoral experience in China focusing on fluid dynamics with multiple publications with 6 total %Jose, Xu, Bai, Su, Miao, Ye
+% co-authors in respected journals. Developing a keen interest in applying research and development skills to the financial markets through courses such as Python and Statistics for Financial Analysis.
+
+% Mathematician and aspiring quant researcher with a passion for software and technology. Eager to learn from experienced professionals and contribute to the success of the organization.
 % Mathematician from Malaysia, looking for a position in software and technology to leverage the scientific method and mathematical rigour to make a difference. Hardworking, passionate, and a fast learner who loves to help. Flexible in location.
 \makerubric{employment}
+\myvert{}
+\makerubric{selectedpapers}
+\myvert{}
 \makerubric{education}
 
 % If you're not a researcher nor an academic, you probably don't have any publications; delete this line.
 %% Sometimes when a section can't be nicely modelled with the \entry[]... mechanism; hack our own and use \input NOT \makerubric
 %\input{publications}
-
+\myvert{}
+\vspace{-0.2em}
 \makerubric{skills}
-\makerubric{misc}
+\myvert{}
+% \makerubric{misc}
+\makerubric{experience}
 
 % \makerubric{referee}
 % \input{referee-full}
 
+% SEO
+\vspace{-1.5em}\textcolor{white}{\( {\text{\tiny brownian motion, Ito's lemma, stochastic analysis, sPDEs, mathematical finance, large neural networks, RLHF, black-scholes, awards, volatility, stocks, bonds, futures, options, derivatives, lasso, ridge, regression, classification, creative problem solver, analytical, machine learning, deep learning, portfolio optimisation, convex optimisation, alpha research, linear algebra, matrix analysis, numerical analysis, probability, statistics, equities, delta one, systematic strategies, risk premia, rates, credit risk management, Monte Carlo simulation, Kalman filter, Arbitrage pricing theory, Factor models, High-frequency trading, Algorithmic trading, Financial engineering, Computational finance, Econometrics, Time series analysis,  Numerical methods, Data mining, Data visualization, Decision trees, Support vector machines, Random forests, Gradient boosting, Neural style transfer, Generative adversarial networks, Fourier analysis, Bayesian inference, Bayesian networks, Markov chain Monte Carlo, Hidden Markov models, Gibbs sampling, Expectation-maximization, Maximum likelihood estimation, Maximum a posteriori estimation, Maximum entropy, Information theory, Entropy, Mutual information, Kullback-Leibler divergence, Cross entropy, Shannon's theorem
+}}\)}
 \end{document}
