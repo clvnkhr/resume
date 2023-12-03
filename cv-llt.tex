@@ -10,6 +10,7 @@
 
 % Uncomment to enable Chinese; needs XeLaTeX
 % \usepackage{ctex}
+
 \newcommand{\myvert}{\vspace{-1.1em}}
 \newcommand{\myhori}{\hspace{-1.1em}}
 \usepackage{settings}
@@ -31,7 +32,12 @@
 \fi
 
 
+\definecolor{darkblue}{rgb}{0.2,0.2,0.7}
+% \usepackage{soul}
+% \setulcolor{darkblue}
 
+% \newcommand{\myurl}[2]{\href{#1}{\ul{\texttt{#2}}}}
+\newcommand{\myurl}[2]{\href{#1}{\textcolor{darkblue}{\texttt{#2}}}}
 
 %% Only needed if you want a Publication List
 %\addbibresource{own-bib.bib}
@@ -61,17 +67,17 @@
 \leftheader{%
   {\LARGE\bfseries\sffamily Calvin Khor, Ph.D.}
 
-    \makefield{\faEnvelope[regular]}{\href{mailto:calvin\_khor@hotmail.com}{\texttt{calvin\_khor@hotmail.com}}}
+    \makefield{\faEnvelope[regular]}{\myurl{mailto:calvin\_khor@hotmail.com}{\texttt{calvin\_khor@hotmail.com}}}
     % \phantom{\texttt{aaaa}}
     % \makefield{\faMastodon}{Mastodon Handle: \href{https://mathstodon.xyz/@clvnhkr}{\texttt{@clvnhkr@mathstodon.xyz}}}
         \phantom{\texttt{aaaa}}
-    \makefield{\faGlobe}{\href{https://clvnkhr.github.io}{\texttt{clvnkhr.github.io}}}
+    \makefield{\faGlobe}{\myurl{https://clvnkhr.github.io}{\texttt{clvnkhr.github.io}}}
     \hfill
     \makefield{\faPhone}{+44\,(0)\,7801\,268\,228}
 
-    \makefield{\faGithub}{\href{https://github.com/clvnkhr/}{\texttt{https://github.com/clvnkhr/}}}
+    \makefield{\faGithub}{\myurl{https://github.com/clvnkhr/}{\texttt{https://github.com/clvnkhr/}}}
     \phantom{\texttt{}}
-    \makefield{\faOrcid}{Publications: \href{https://orcid.org/0000-0001-7557-0786}{\texttt{orcid.org/0000-0001-7557-0786}}}
+    \makefield{\faOrcid}{Publications: \myurl{https://orcid.org/0000-0001-7557-0786}{\texttt{orcid.org/0000-0001-7557-0786}}}
         
     % \makefield{\faPhone}{+44\,(0)\,7801\,268\,228}
 
