@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.4)  22 FEB 2024 15:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.4)  5 JAN 2025 20:33
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv-llt.tex
-(./cv-llt.tex
+**cv-llt-ma.tex
+(./cv-llt-ma.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/curve/curve.cls
 Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
@@ -158,10 +159,10 @@ Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2022-01-12 L3 Experimental document command parser
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.sty
 Package: fontawesome5-generic-helper 2021/06/04 v5.15.3 non-uTeX helper for fontawesome5
- (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def))) (/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -249,10 +250,10 @@ File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count284
 \pgfsyssoftpath@bigbuffer@items=\count285
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+))
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen171
@@ -296,15 +297,15 @@ File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen190
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen191
 \pgf@pt@y=\dimen192
 \pgf@pt@temp=\dimen193
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -347,8 +348,7 @@ Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 \pgffor@skip=\dimen199
 \pgffor@stack=\toks39
 \pgffor@toks=\toks40
-))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+)) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -378,7 +378,8 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@matrix@numberofcolumns=\count298
 )
 \tikz@expandcount=\count299
- (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
 File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -424,8 +425,7 @@ File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodepartfivebox=\box88
 ))) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
 File: tikzlibraryshadows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+ (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
 File: tikzlibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
@@ -433,7 +433,8 @@ File: pgflibraryfadings.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \CommentStream=\write4
  Excluding comment 'comment') (/usr/local/texlive/2022/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
- (/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
@@ -922,52 +923,73 @@ LaTeX Font Info:    Font shape `T1/Cochineal-TLF/m/n' will be
 Package: zi4 2019/05/17 v1.12
  `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
 \zifour@ocount=\count470
-) Excluding comment 'fullonly' Excluding 'fullonly' comment.
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2022/03/14 v3.0d Micro-typographical refinements (RS)
+\MT@toks=\toks49
+\MT@tempbox=\box92
+\MT@count=\count471
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
+LaTeX Info: Redefining \leftprotrusion on input line 1028.
+LaTeX Info: Redefining \rightprotrusion on input line 1036.
+LaTeX Info: Redefining \textls on input line 1195.
+\MT@outer@kern=\dimen286
+LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
+\MT@listname@count=\count472
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2022/03/14 v3.0d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 900.
+LaTeX Info: Redefining \lslig on input line 900.
+\MT@outer@space=\skip94
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
+)) Excluding comment 'fullonly' Excluding 'fullonly' comment.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Info: Redefining \oldstylenums on input line 97.
-LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 97.
+LaTeX Info: Redefining \oldstylenums on input line 96.
+LaTeX Font Info:    Trying to load font information for T1+Cochineal-OsF on input line 96.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/cochineal/T1Cochineal-OsF.fd
 File: T1Cochineal-OsF.fd 2016/01/19 (msharpe) Font definitions for T1/Cochineal-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 97.
- (./cv-llt.aux)
-\openout1 = `cv-llt.aux'.
+(Font)              scaled to size 10.95pt on input line 96.
+ (/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.aux)
+\openout1 = `cv-llt-ma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
  (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count471
-\scratchdimen=\dimen286
-\scratchbox=\box92
-\nofMPsegments=\count472
-\nofMParguments=\count473
-\everyMPshowfont=\toks49
-\MPscratchCnt=\count474
-\MPscratchDim=\dimen287
-\MPnumerator=\count475
-\makeMPintoPDFobject=\count476
-\everyMPtoPDFconversion=\toks50
+\scratchcounter=\count473
+\scratchdimen=\dimen287
+\scratchbox=\box93
+\nofMPsegments=\count474
+\nofMParguments=\count475
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count476
+\MPscratchDim=\dimen288
+\MPnumerator=\count477
+\makeMPintoPDFobject=\count478
+\everyMPtoPDFconversion=\toks51
 ) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -1033,14 +1055,14 @@ File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout5 = `cv-llt.bcf'.
+\openout5 = `cv-llt-ma.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'cv-llt.bbl' found.
- (./cv-llt.bbl)
-Package biblatex Info: Reference section=0 on input line 97.
-Package biblatex Info: Reference segment=0 on input line 97.
-Package hyperref Info: Link coloring ON on input line 97.
+Package biblatex Info: ... file 'cv-llt-ma.bbl' found.
+ (/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.bbl)
+Package biblatex Info: Reference section=0 on input line 96.
+Package biblatex Info: Reference segment=0 on input line 96.
+Package hyperref Info: Link coloring ON on input line 96.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1048,80 +1070,114 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count477
+\c@section@level=\count479
 )
-LaTeX Info: Redefining \ref on input line 97.
-LaTeX Info: Redefining \pageref on input line 97.
-LaTeX Info: Redefining \nameref on input line 97.
- (./cv-llt.out) (./cv-llt.out)
+LaTeX Info: Redefining \ref on input line 96.
+LaTeX Info: Redefining \pageref on input line 96.
+LaTeX Info: Redefining \nameref on input line 96.
+ (/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.out) (/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.out)
 \@outlinefile=\write6
-\openout6 = `cv-llt.out'.
+\openout6 = `cv-llt-ma.out'.
 
-\c@mv@tabular=\count478
-\c@mv@boldtabular=\count479
+\c@mv@tabular=\count480
+\c@mv@boldtabular=\count481
  (/usr/local/texlive/2022/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
+LaTeX Info: Redefining \microtypecontext on input line 96.
+Package microtype Info: Applying patch `item' on input line 96.
+Package microtype Info: Applying patch `toc' on input line 96.
+Package microtype Info: Applying patch `eqnum' on input line 96.
+Package microtype Info: Applying patch `footnote' on input line 96.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 96.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Cochineal-OsF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 99.
+(Font)              scaled to size 17.28pt on input line 98.
 LaTeX Font Info:    Font shape `T1/Cochineal-OsF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 99.
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 99.
+(Font)              scaled to size 17.28pt on input line 98.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/cabin/T1Cabin-TLF.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 99.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 98.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 99.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 99.
+(Font)              scaled to size 17.28pt on input line 98.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Cabin-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 99.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 99.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 99.
+(Font)              scaled to size 9.85492pt on input line 98.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zi4' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 99.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 99.
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 99.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 98.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands1 on input line 98.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands1.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands1/solid/n' in size <10.95> not available
-(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 99.
- (./employment.tex (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./employment.tex) (./employment.tex) (./employment.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./education.tex) (./education.tex) (./education.tex) (./education.tex) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex) (./experience.tex) (./experience.tex) (./experience.tex) (./experience.tex)
-Overfull \hbox (2433.39711pt too wide) in paragraph at lines 129--130
+(Font)              Font shape `U/fontawesomebrands1/regular/n' tried instead on input line 98.
+<x.png, id=35, 431.6125pt x 403.5075pt>
+File: x.png Graphic file (type png)
+<use x.png>
+Package pdftex.def Info: x.png  used on input line 98.
+(pdftex.def)             Requested size: 10.53738pt x 9.85492pt.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+) (./employment.tex (/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)) (./employment.tex) (./employment.tex) (./employment.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./selectedpapers.tex) (./education.tex) (./education.tex) (./education.tex) (./education.tex) (./skills.tex) (./skills.tex) (./skills.tex) (./skills.tex) (./experience.tex) (./experience.tex) (./experience.tex) (./experience.tex)
+Overfull \hbox (2678.88629pt too wide) in paragraph at lines 130--131
 [][]$[]$[]  
  []
 
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./cv-llt.aux)
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./x.png>] (/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `cv-llt.out' has not changed.
+Package rerunfilecheck Info: File `cv-llt-ma.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'cv-llt.run.xml'.
-\openout1 = `cv-llt.run.xml'.
+Package logreq Info: Writing requests to 'cv-llt-ma.run.xml'.
+\openout1 = `cv-llt-ma.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37333 strings out of 478268
- 743051 string characters out of 5846348
- 1522200 words of memory out of 5000000
- 54846 multiletter control sequences out of 15000+600000
- 681976 words of font info for 72 fonts, out of 8000000 for 9000
+ 39224 strings out of 478268
+ 781853 string characters out of 5846348
+ 1583048 words of memory out of 5000000
+ 56549 multiletter control sequences out of 15000+600000
+ 729360 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,13n,108p,1321b,4283s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_3q3crd.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_ekjpcs.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on cv-llt.pdf (1 page, 356334 bytes).
+ 100i,13n,108p,1423b,4283s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_3q3crd.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_ekjpcs.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-BoldItalic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.pdf (1 page, 445321 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 173 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57464 words of extra memory for PDF output out of 61914 (max. 10000000)
 

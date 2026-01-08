@@ -1,0 +1,4 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is '/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.blg'
+[65] biber-darwin:340> INFO - === Sun Jan  5, 2025, 20:33:48
+[80] Biber.pm:418> INFO - Reading '/Users/calvinkhor/Documents/GitHub/resume/.texpadtmp/cv-llt-ma.bcf'
