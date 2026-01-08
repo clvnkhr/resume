@@ -1,0 +1,21 @@
+% Simple list of publications using the existing bibliography
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+
+\title{List of Publications}
+\date{}
+\author{Xiaoyan Su}
+\begin{document}
+\maketitle
+
+% Include all entries from the bibliography file
+\nocite{*}
+
+\renewcommand{\refname}{}
+\bibliography{own-bib.bib}
+\bibliographystyle{unsrt}
+
+\end{document}

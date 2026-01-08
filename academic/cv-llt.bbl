@@ -1,0 +1,440 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{khorsu-jllions-submitted}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=402fa9f5c1eab790759507eab0969663}{%
+           family={Khor},
+           familyi={K\bibinitperiod},
+           given={Calvin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c4777a997ae1553a72c8e0d63b28a4c}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Changxing},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \strng{fullhash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \strng{bibnamehash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \strng{authorbibnamehash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \strng{authornamehash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \strng{authorfullhash}{1ede4a56a6ae799d99f9b5d9b50b606c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Submitted}
+      \field{title}{Nonuniqueness of {Leray--Hopf} solutions to the forced fractional {Navier--Stokes} Equations in three dimensions, up to the {J.L. Lions} exponent}
+      \field{year}{2022}
+      \true{nocite}
+      \keyw{35Q30,35Q35,35B30}
+    \endentry
+    \entry{10.48550/arXiv.2208.02065}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=330e18fb499a5fa7fa598125962993f7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=96ff5bde9d3fb221ebbab50d5c528642}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guixiang},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{fullhash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{bibnamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authorbibnamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authornamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authorfullhash}{abc834aa838a405b7b9411428cfb72e9}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Submitted}
+      \field{title}{A Mikhlin--Hörmander multiplier theorem for the partial harmonic oscillator}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.2208.02065
+      \endverb
+    \endentry
+    \entry{10.48550/arXiv.2207.10461}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=330e18fb499a5fa7fa598125962993f7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=96ff5bde9d3fb221ebbab50d5c528642}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guixiang},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{fullhash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{bibnamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authorbibnamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authornamehash}{abc834aa838a405b7b9411428cfb72e9}
+      \strng{authorfullhash}{abc834aa838a405b7b9411428cfb72e9}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Submitted}
+      \field{title}{Riesz transforms and Sobolev spaces associated to the partial harmonic oscillator}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.2207.10461
+      \endverb
+    \endentry
+    \entry{xusu-submitted}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=8d3be6cd23f27f3fc13ab94e6cf28664}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chengbin},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+        {{un=1,uniquepart=given,hash=96ff5bde9d3fb221ebbab50d5c528642}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Guixiang},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=f029cbe14ebf3f3f6fbd5138929fdd10}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Xiaoqing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7482fcd59bd74321dd1210cc09549283}
+      \strng{fullhash}{7482fcd59bd74321dd1210cc09549283}
+      \strng{bibnamehash}{7482fcd59bd74321dd1210cc09549283}
+      \strng{authorbibnamehash}{7482fcd59bd74321dd1210cc09549283}
+      \strng{authornamehash}{7482fcd59bd74321dd1210cc09549283}
+      \strng{authorfullhash}{7482fcd59bd74321dd1210cc09549283}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Submitted}
+      \field{title}{A Limiting absorption principle for high-order Schrödinger operators in critical spaces}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/arXiv.2106.14242
+      \endverb
+    \endentry
+    \entry{https://doi.org/10.1090/tran/8823}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7c4777a997ae1553a72c8e0d63b28a4c}{%
+           family={Miao},
+           familyi={M\bibinitperiod},
+           given={Changxing},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f47539e125fc0411383ebdee15565b7}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiqiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \strng{fullhash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \strng{bibnamehash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \strng{authorbibnamehash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \strng{authornamehash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \strng{authorfullhash}{d1c418b18f4da397d6bc43fdaad151f8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Trans. Amer. Math. Soc.}
+      \field{title}{The $W^{s,p}$-boundedness of stationary wave operators for the Schrödinger operator with inverse-square potential}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1090/tran/8823
+      \endverb
+    \endentry
+    \entry{zbMATH07387575}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ee776276a2d045d9073c79b54e2b9bd}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Shiliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32c6e680c53f50db898c4f4da31b32fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Miao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{fullhash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{bibnamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authorbibnamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authornamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authorfullhash}{326d11f1c7e15fcec33a5e6a88487663}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0170-4214}
+      \field{journaltitle}{Math. Methods Appl. Sci.}
+      \field{number}{10}
+      \field{title}{Dispersive estimates for time and space fractional {Schrödinger} equations}
+      \field{volume}{44}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{7933\bibrangedash 7942}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/mma.5550
+      \endverb
+      \keyw{35R11,26A33,35B40,35B45,35Q41}
+    \endentry
+    \entry{zbMATH07242917}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f47539e125fc0411383ebdee15565b7}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Jiqiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5ac655a040dfea7ef443755af2b82c54}
+      \strng{fullhash}{5ac655a040dfea7ef443755af2b82c54}
+      \strng{bibnamehash}{5ac655a040dfea7ef443755af2b82c54}
+      \strng{authorbibnamehash}{5ac655a040dfea7ef443755af2b82c54}
+      \strng{authornamehash}{5ac655a040dfea7ef443755af2b82c54}
+      \strng{authorfullhash}{5ac655a040dfea7ef443755af2b82c54}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Math. Methods Appl. Sci.}
+      \field{number}{7}
+      \field{title}{Hölder regularity for the time fractional {Schrödinger} equation}
+      \field{volume}{43}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{4847\bibrangedash 4870}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1002/mma.6239
+      \endverb
+      \keyw{35R11,35B65,42B15,35A09,35L05,35Q41}
+    \endentry
+    \entry{zbMATH07096887}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ee776276a2d045d9073c79b54e2b9bd}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Shiliang},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32c6e680c53f50db898c4f4da31b32fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Miao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{fullhash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{bibnamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authorbibnamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authornamehash}{326d11f1c7e15fcec33a5e6a88487663}
+      \strng{authorfullhash}{326d11f1c7e15fcec33a5e6a88487663}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Math. Anal. Appl.}
+      \field{number}{1}
+      \field{title}{Local well-posedness of semilinear space-time fractional {Schrödinger} equation}
+      \field{volume}{479}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1244\bibrangedash 1265}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.jmaa.2019.06.077
+      \endverb
+      \keyw{35Q55,35R11}
+    \endentry
+    \entry{zbMATH06949202}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c3408e4287e9ca0b02cf06e423a03b76}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Xiaoyan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32c6e680c53f50db898c4f4da31b32fe}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Miao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{f06235dade72462784595a86228921b9}
+      \strng{fullhash}{f06235dade72462784595a86228921b9}
+      \strng{bibnamehash}{f06235dade72462784595a86228921b9}
+      \strng{authorbibnamehash}{f06235dade72462784595a86228921b9}
+      \strng{authornamehash}{f06235dade72462784595a86228921b9}
+      \strng{authorfullhash}{f06235dade72462784595a86228921b9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Stochastic Anal. Appl.}
+      \field{number}{4}
+      \field{title}{The regularity of fractional stochastic evolution equations in {Hilbert} space}
+      \field{volume}{36}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{639\bibrangedash 653}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/07362994.2018.1436973
+      \endverb
+      \keyw{60H15,26A33,34F05,34G10,35R11}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
